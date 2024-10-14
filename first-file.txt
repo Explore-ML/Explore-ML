@@ -1,2 +1,1 @@
-This is First File
-On main branch, an extra commit for a conflict
+CONFLICT CHANGES
